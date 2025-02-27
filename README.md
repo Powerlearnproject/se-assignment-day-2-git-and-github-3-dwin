@@ -71,6 +71,7 @@ Common challenges:
 1. Not using branches properly, leading to conflicts.
 2. Forgetting to pull the latest changes, causing merge issues.
 3. Messy commit history, making tracking difficult.
+
 Best Practices:
 1. Use meaningful commit messages.
 2. Pull before pushing to avoid conflicts.
